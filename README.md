@@ -27,7 +27,7 @@ Continue with https://dortania.github.io/OpenCore-Install-Guide/installer-guide/
 
 or if you are on Linux https://dortania.github.io/OpenCore-Install-Guide/installer-guide/linux-install.html
 
-you can skip the Downloading macOS part as this repo will that for you
+you can skip the Downloading macOS part as this repo will do that for you
 
 ## ⚠️ Legal Notice & Disclaimer
 
